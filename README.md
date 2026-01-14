@@ -1,34 +1,30 @@
-# 💫 Hi 👋, I'm Himanshi Aggarwal  
-**Founder @ TechLeads | BTech CSE (AI & ML) | Hackathon Winner | Tech Community Builder | Content Creator**
- 
-🤝 Open to collaborations, hackathons, tech communities & content partnerships
+# 💫 Hi, I'm Himanshi Aggarwal  
+**BTech CSE (AI & ML) Student | Hackathon Winner | Founder @ TechLeads | Tech & Community Builder**
+
+📧 Email: **himanshiagg18@gmail.com**  
+🌐 Open to internships, hackathons, and tech collaborations
 
 - 🔭 **Currently working on:**  
-  Building TechLeads, organizing national hackathons & developing AI + Web3 based projects  
+  Building TechLeads, organizing hackathons, and contributing to student-led tech initiatives  
 
 - 🌱 **Currently learning:**  
-  AI/ML, Blockchain (Solidity), Web Development, Git & Open Source  
+  Python, GitHub, JavaScript (beginner), Solidity (beginner) & AI/ML fundamentals  
 
 - 👯 **Looking to collaborate on:**  
-  Hackathons, tech communities, Web3 projects, AI tools & startup ideas  
+  Hackathons, student tech communities, Web3 ideas, and early-stage tech projects  
 
 - 🤔 **Looking for help with:**  
-  Scaling TechLeads, sponsorships, product building & open-source contributions  
+  Improving my coding skills, contributing to open source, and building real-world projects  
 
 - 💬 **Ask me about:**  
-  Hackathons, communities, Web3, AI projects, pitching & networking  
-
-- 📫 **How to reach me:**  
-  himanshiagg18@gmail.com  
-
+  Hackathons, tech communities, event organizing, pitching, and getting started in tech
+ 
 - ⚡ **Fun fact:**  
-  I turn hackathons, communities & ideas into real impact 🚀  
+  I’ve organized, partnered, and won multiple hackathons while building a 1,000+ member tech community.  
 
 ## 🔗 Content Creator  
-I create tech, event & growth-focused content on Instagram & beyond, helping students break into hackathons, communities & tech careers.
+I create content around hackathons, tech events, student opportunities, and community building on Instagram.
 
-
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1192477917029081110) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beingghemanshe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshi-aggarwal-5a5553321) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HimanshiAg15396) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsmishiverse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshiagg18@gmai.com) 
